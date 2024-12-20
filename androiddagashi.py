@@ -1,3 +1,4 @@
+# 自分用メモ macではvenvで仮想環境から実行する
 import requests
 import sys
 from bs4 import BeautifulSoup
